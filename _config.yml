@@ -22,7 +22,7 @@ repository               : "23Lam/23Lam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo1.png"
   name             : "Cheng Lam Ho"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
