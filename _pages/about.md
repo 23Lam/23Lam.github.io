@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cheng Lam Ho"
+title: "Chenglam Ho"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ redirect_from:
 
 ---
 
-Hello! I’m **Cheng Lam Ho**, a fourth-year undergraduate student from the [School of SCSE](https://www.scse.uestc.edu.cn/) at [UESTC](https://www.uestc.edu.cn/).
+Hello! I’m **Chenglam Ho**, a fourth-year undergraduate student from the [School of SCSE](https://www.scse.uestc.edu.cn/) at [UESTC](https://www.uestc.edu.cn/).
 
 My research interests include **computer vision**, **deep learning**, and **reinforcement learning**.
 
