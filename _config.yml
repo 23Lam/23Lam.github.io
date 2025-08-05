@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lam"
+title                    : "Cheng Lam Ho"
 title_separator          : "-"
-name                     : &name "Lam"
+name                     : &name "Cheng Lam Ho"
 description              : #&description "personal description"
 url                      : https://23Lam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "23Lam/23Lam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lam"
+  name             : "Cheng Lam Ho"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Earth"
