@@ -15,7 +15,7 @@ collection: portfolio
 
 **系統展示影片：**
 <div style="text-align: center; margin: 20px 0;">
-  <iframe width="700" height="400" src="https://www.youtube.com/watch?v=nNBa6-tl34k" frameborder="0" allowfullscreen></iframe>
+  <iframe width="700" height="400" src="https://www.youtube.com/embed/nNBa6-tl34k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **使用者介面與預測結果：**
